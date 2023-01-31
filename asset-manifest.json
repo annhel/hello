@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/annhel/hello/static/js/main.ce94bff6.js",
-    "index.html": "/annhel/hello/index.html",
-    "main.ce94bff6.js.map": "/annhel/hello/static/js/main.ce94bff6.js.map"
+    "main.js": "/hello/static/js/main.ce94bff6.js",
+    "index.html": "/hello/index.html",
+    "main.ce94bff6.js.map": "/hello/static/js/main.ce94bff6.js.map"
   },
   "entrypoints": [
     "static/js/main.ce94bff6.js"
